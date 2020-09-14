@@ -1,0 +1,16 @@
+gunicorn
+coverage
+coveralls 
+flask-marshmallow 
+flask
+flask-SQLAlchemy
+Werkzeug
+flask-forms
+flask-WTF
+Flask-Login
+flask-script
+flask-migrate
+Flask-Testing 
+pyMySQL
+flask-Bootstrap
+
